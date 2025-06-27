@@ -2,12 +2,11 @@
 
 ## Requisitos
 
-- Node.js (versión recomendada: >= 18.x)
-- npm (viene con Node.js) o yarn/pnpm si prefieres
-
+- Node.js
+- npm
 ## Instalación
 
-Clona este repositorio y navega al directorio del proyecto.
+Clonar el repositorio y navegar al directorio del proyecto.
 
 ## Instalacion de dependencias
 
